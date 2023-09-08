@@ -1,0 +1,118 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+  }
+
+@media screen and (max-width:700px){
+.flexc{
+           
+    align-items: center;
+    justify-content: center;
+}
+
+}
+
+.flexc{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+margin: 1em;
+padding: 5px;
+margin-left: 10px;
+margin-right: 10px;
+justify-content: center;
+background-image: linear-gradient(to left, rgb(223, 211, 211),rgb(233, 233, 222));
+/* background-image: linear-gradient(to left bottom, #5289dc, #00a9f3, #00c3dd, #00d69e, #65e049); */
+  
+}
+.Ebooksec{
+    /* background-color: #8deeff; */
+    margin: 10px 10px;
+}
+.flex{
+ width: 200px;
+ height: 200px;
+ background-color: rgb(255, 255, 255);
+ border: 2px solid rgb(121, 121, 121);
+ text-align: center;
+ font-style: italic;
+ border-radius: 5px;
+ 
+ 
+ color: rgb(245, 237, 237);
+ 
+}
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: rgb(175, 47, 47) 5px;
+    font-weight: bold;
+    padding: 20px;
+    /* text-decoration: underline; */
+    margin-top: 0ch;
+    margin-bottom: 0ch;
+    background-color: rgb(255, 255, 255);
+}
+
+
+/* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+
+
+.carousel-cell {
+  width: 66%;
+height: 400px;
+  margin-right: 10px;
+  
+  border-radius: 5px;
+  
+}
+.carousel-cell book{
+    max-width: 100%;
+    
+}
+footer {
+    margin-top: 20px;
+    background-color: #8deeff;
+    overflow: hidden;
+   padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+footer a {
+    text-decoration: none;
+   
+    text-align: center;
+    
+    color:antiquewhite;
+    margin-top: 0ch;
+    align-items: center;
+    justify-content: center;
+}
+.review{
+    background-image: linear-gradient(rgb(161, 226, 231),
+    rgb(189, 255, 233));
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.card-img-top{
+    width: 100px;
+    height: 100px;
+}
+.book{
+    width: 200px;
+    height: 200px;
+}
+.product{
+    height: 180px;
+    width: 180px;
+}
+

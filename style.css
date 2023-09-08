@@ -1,0 +1,118 @@
+footer {
+  margin-top: 20px;
+  overflow: hidden;
+  padding-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+footer a {
+  text-decoration: none;
+
+  text-align: center;
+
+  color: antiquewhite;
+  margin-top: 0ch;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  height: 250px;
+}
+.card:hover {
+  cursor: pointer;
+}
+.add {
+  color: #646ef5;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  text-decoration: none;
+}
+
+.ice {
+  color: antiquewhite;
+}
+
+nav {
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+.navbar-toggler {
+  background-color: antiquewhite;
+}
+
+.card-body {
+  background-color: rgb(241, 235, 236);
+}
+
+.card {
+  background-color: whitesmoke;
+}
+
+#carouselExampleIndicators {
+  margin: 100px;
+}
+
+.flex {
+  margin: 10px;
+}
+
+.flexboxx {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: white;
+}
+
+.header {
+  margin: 20px;
+}
+
+#floor {
+  background-color: rgb(36, 36, 36);
+  border-radius: 2px;
+}
+.carousel {
+  margin: 20px;
+}
+span:hover {
+  color: rgb(72, 255, 118);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Abhaya Libre", serif;
+  background-color: white;
+  font-weight: 400;
+}
+
+.try {
+  margin-left: 65px;
+}
+
+.hello {
+  margin-left: 35px;
+}
+
+.dropdown-toggle::after {
+  color: antiquewhite;
+}
+
+.px-5 {
+  color: #842029;
+  background-color: #adb5bd;
+  font-weight: bold;
+  width: 1280px;
+  margin-left: 38px;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
